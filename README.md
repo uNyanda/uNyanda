@@ -14,31 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="30" alt="gnuemacs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&fontFamily=JetBrains+Mono&showBorder=false&lineCount=6&theme=catppuccin_macchiato&hideTitle=true" alt="My Tech Stack" />
 </div>
 
 ###
