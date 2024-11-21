@@ -7,7 +7,7 @@
 <br clear="both">
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=uNyanda&theme=catppuccin-macchiato&hide_border=true&border_radius=4.5" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=uNyanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=uNyanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uNyanda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
