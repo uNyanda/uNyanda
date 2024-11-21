@@ -5,10 +5,9 @@
 ###
 
 <br clear="both">
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=uNyanda&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uNyanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=uNyanda&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uNyanda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
